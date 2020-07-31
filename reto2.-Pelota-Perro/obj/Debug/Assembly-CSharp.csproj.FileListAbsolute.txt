@@ -1,0 +1,2 @@
+C:\Users\Pc-Casa\Desktop\unity20\reto2.-Pelota-Perro\reto2.-Pelota-Perro\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Pc-Casa\Desktop\unity20\reto2.-Pelota-Perro\reto2.-Pelota-Perro\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
